@@ -35,7 +35,7 @@ The Hello Project is a Django-based REST API designed to manage contact form sub
 
 1. **Clone the Repository**:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/PrathmeshChurhe/REST_Django_API
     cd hello_project
     ```
 
